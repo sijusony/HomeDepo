@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestAPICassandraExample
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: siju
+Implementation-Vendor-Id: com.target
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stAPICassandraExample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.homedepo.service.ProductInfoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.018 sec - in org.homedepo.service.ProductInfoServiceTest
